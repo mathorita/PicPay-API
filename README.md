@@ -13,6 +13,9 @@ This project is a simulation of a money transfer system between users, inspired 
 - Integration with external authorization service
 - Notification to external service after a transaction
 - Automated tests using `pytest` and `APIClient`
+- JWT Protection
+- IsSender and IsUser permissions (only owner can see the personal informations)
+- DockerFile created
 
 ---
 
